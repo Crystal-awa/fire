@@ -1,0 +1,79 @@
+[Manager] Initialize.
+[Manager] Version: 0.27.4.0.
+[Manager] OS: Microsoft Windows NT 10.0.19045.0 AMD64.
+[Manager] Net Framework: 4.0.30319.42000.
+[Manager] Unity Engine: 2022.3.101.
+[Manager] Game: A Dance of Fire and Ice.
+[Manager] Mods path: D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods.
+[Manager] Injection successful.
+[Manager] Parsing mods.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\AdofaiTweaks\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\AQRHelper\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\BetterCalibration\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\EZ2FAI\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\KeyboardChatterBlocker\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\KeyViewer\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\MusicTimestamp\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\Overlayer\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\ProgressDisplayer\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\ShowBPM\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\ShowHitMargin\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\TileCount\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\TogetherBootstrap\Info.json'.
+[Manager] Reading file 'D:\桌面文件2\冰与火之舞\A Dance of Fire and Ice\Mods\TUFHelper\Info.json'.
+[Manager] Sorting mods.
+[Manager] Loading mods.
+[AdofaiTweaks] To skip (disabled).
+[AQRHelper] Version '1.0.0'. Loading.
+[AQRHelper] Active.
+[BetterCalibration] To skip (disabled).
+[EZ2FAI] To skip (disabled).
+[KeyboardChatterBlocker] Version '0.0.5'. Loading.
+[KeyboardChatterBlocker] Active.
+[KeyViewer] Version '3.11.0'. Loading.
+[KeyViewer] Active.
+[MusicTimestamp] Version '0.0.10'. Loading.
+[MusicTimestamp] Active.
+[Overlayer] Version '3.0.2'. Loading.
+[Overlayer] ID:Patches.TagResetter Patched!
+[Overlayer] ID:Patches.FontPatch.FontChanger Patched!
+[Overlayer] ID:Patches.FontPatch.FontAttacher Patched!
+[Overlayer] Initialized Tag Wrapper Assembly.
+[Overlayer] ID:Tags.Hit.JudgementCalculator Patched!
+[Overlayer] Active.
+[ProgressDisplayer] Version '2.0.8'. Loading.
+[ProgressDisplayer] Active.
+[ShowBPM] Version '1.2.0'. Loading.
+[ShowBPM] Active.
+[ShowHitMargin] Version '1.5.0'. Loading.
+[ShowHitMargin] Read UUID: 6d35043a56cd474e82023fb6fc83c0a2
+[ShowHitMargin] Active.
+[TileCount] Version '0.0.9'. Loading.
+[TileCount] Active.
+[TogetherBootstrap] Version '1.5.5'. Loading.
+[TogetherBootstrap] Active.
+[TUFHelper] Version '1.2.1'. Loading.
+[TUFHelper] Active.
+[Manager] FINISH. SUCCESSFUL LOADED 14/14 MODS.
+[Manager] Spawning.
+[Manager] Checking updates.
+[TogetherBootstrap] Checked: 7z/7z.dll
+[TogetherBootstrap] Checked: 7z/7z.exe
+[TogetherBootstrap] Checked: Assets/Assets
+[TogetherBootstrap] Checked: Assets/Assets.manifest
+[TogetherBootstrap] Checked: Assets/together_assets.bundle
+[TogetherBootstrap] Checked: Assets/together_assets.bundle.manifest
+[TogetherBootstrap] Checked: Assets/together_scenes.bundle
+[TogetherBootstrap] Checked: Assets/together_scenes.bundle.manifest
+[TogetherBootstrap] Checked: Together.dll
+[TogetherBootstrap] Checked: Together.pdb
+[TogetherBootstrap] OS: WindowsPlayer
+[TogetherBootstrap] [Exception] OnToggle: NullReferenceException - Object reference not set to an instance of an object
+[KeyboardChatterBlocker] Blocked Async Key: LControl time: 6ms.
+[KeyboardChatterBlocker] Blocked Key: Mouse0 time: 41ms.
+[KeyboardChatterBlocker] Blocked Key: Mouse0 time: 19ms.
+[KeyboardChatterBlocker] Blocked Async Key: D time: 81ms.
+[KeyboardChatterBlocker] Blocked Async Key: J time: 76ms.
+[KeyboardChatterBlocker] Blocked Async Key: J time: 73ms.
+[KeyboardChatterBlocker] Blocked Async Key: J time: 4ms.
+[Manager] Destroying when exit.

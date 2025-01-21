@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Param xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Hotkey>
+    <keyCode>F11</keyCode>
+    <modifiers>1</modifiers>
+  </Hotkey>
+  <CheckUpdates>1</CheckUpdates>
+  <ShowOnStart>1</ShowOnStart>
+  <WindowWidth>0</WindowWidth>
+  <WindowHeight>0</WindowHeight>
+  <UIScale>1</UIScale>
+  <UIFont>Arial</UIFont>
+  <ModParams>
+    <Mod Id="AdofaiTweaks" Enabled="false" />
+    <Mod Id="AQRHelper" Enabled="true" />
+    <Mod Id="BetterCalibration" Enabled="false" />
+    <Mod Id="EZ2FAI" Enabled="false" />
+    <Mod Id="KeyboardChatterBlocker" Enabled="true" />
+    <Mod Id="KeyViewer" Enabled="true" />
+    <Mod Id="MusicTimestamp" Enabled="true" />
+    <Mod Id="Overlayer" Enabled="true" />
+    <Mod Id="ProgressDisplayer" Enabled="true" />
+    <Mod Id="ShowBPM" Enabled="true" />
+    <Mod Id="ShowHitMargin" Enabled="true" />
+    <Mod Id="TileCount" Enabled="true" />
+    <Mod Id="Together" Enabled="true" />
+    <Mod Id="TUFHelper" Enabled="true" />
+  </ModParams>
+</Param>
